@@ -87,6 +87,57 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.navbar {
+  padding: 20px;
+  background-color: white;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.logo-section {
+  margin: 10px 40px;
+  display: inline-block;
+}
+
+.logo-section a {
+  font-family: "Helvetica Neue", Helvetica;
+  font-size: 40px;
+  font-weight: bolder;
+  color: #222222;
+  text-decoration: none;
+}
+
+.menubar {
+  margin: auto 40px;
+  display: inline-block;
+  float: right;
+}
+
+.menubar ul li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.menubar ul li a {
+  font-family: "Helvetica Neue";
+  font-size: 16px;
+  color: #222222;
+  text-decoration: none;
+}
+
+.hero-section {
+  height: 600px;
+  background-color: #F6F6F6;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.main-about-us {
+  margin: 50px 200px;
+  padding: 20px;
+  font-family: "Helvetica Neue", Helvetica;
+  font-size: xx-large;
+  text-align: left;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
